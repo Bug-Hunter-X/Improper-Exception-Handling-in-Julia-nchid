@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Julia programming: improper exception handling. The `bug.jl` file shows code that throws an exception without proper error handling, while `bugSolution.jl` shows how to properly handle the exception using a `try...catch` block. This is a good example of how to write more robust and fault-tolerant Julia code.
